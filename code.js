@@ -1,7 +1,7 @@
-javascript: var fullName = "your name 󱢏";
+javascript: var fullName = "anointed israel 󱢏";
 var firstName = "";
 var middleName = "";
-var lastName = "your name 󱢏";
+var lastName = "anointed israel 󱢏";
 
 alert("code by arnob ");
 
